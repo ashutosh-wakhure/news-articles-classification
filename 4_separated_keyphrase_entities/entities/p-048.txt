@@ -1,0 +1,6 @@
+"draft animal welfare bill","TITLE"
+"101 recommendations","QUANTITY"
+"51 organisations and individuals","QUANTITY"
+"Michael Jack","PERSON"
+"Jack","PERSON"
+"Parliament","ORGANIZATION"

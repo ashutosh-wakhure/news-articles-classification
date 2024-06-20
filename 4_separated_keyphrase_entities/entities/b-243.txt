@@ -1,0 +1,7 @@
+"This week","DATE"
+"Marianne Petersen","PERSON"
+"Sweden","LOCATION"
+"a","QUANTITY"
+"skin","QUANTITY"
+"Marianne","PERSON"
+"two buildings","QUANTITY"
