@@ -1,0 +1,6 @@
+"Radcliffe","PERSON"
+"Paula Radcliffe","PERSON"
+"30-year-old","QUANTITY"
+"the Sunday Times","ORGANIZATION"
+"Radcliffe","PERSON"
+"American","OTHER"

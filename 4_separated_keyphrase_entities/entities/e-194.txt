@@ -1,0 +1,6 @@
+"the UK Film Council","ORGANIZATION"
+"about 10%","QUANTITY"
+"UK","ORGANIZATION"
+"UK","ORGANIZATION"
+"Arts minister","PERSON"
+"Estelle Morris","PERSON"
